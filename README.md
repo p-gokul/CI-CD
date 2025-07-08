@@ -4,7 +4,7 @@ This repository implements a **Continuous Integration and Continuous Deployment 
 
 ---
 
-## 📸 Architecture Diagrams
+## 📸 CI-CD Pipelines
 
 ### 🧩 Frontend CI-CD
 
